@@ -1,0 +1,24 @@
+{
+  "name": "projeto_banco_node_mysql",
+  "version": "1.0.0",
+  "description": "Projeto banco NodeJS e Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMelloo/projeto_banco_node_mysql.git"
+  },
+  "author": "Leandro Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMelloo/projeto_banco_node_mysql/issues"
+  },
+  "homepage": "https://github.com/LeandroMelloo/projeto_banco_node_mysql#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mysql2": "^2.2.5",
+    "redis": "^3.1.2"
+  }
+}
